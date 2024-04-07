@@ -1,6 +1,6 @@
 @DiaaReactApp.Server_HostAddress = http://localhost:5089
 
-GET {{DiaaReactApp.Server_HostAddress}}/api/Trips/GetTrips/
+GET {{DiaaReactApp.Server_HostAddress}}/api/Trips/GetTrips
 Accept: application/json
 
 ###
